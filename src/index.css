@@ -1,13 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-body{
-  font-family: Arial, sans-serif;
-  background-color: #002966;
-  background: linear-gradient(#002966, #9198e5);
-  color: azure; 
-  background-repeat:no-repeat;
-  height: 100vh;
-  width:100%;
-}

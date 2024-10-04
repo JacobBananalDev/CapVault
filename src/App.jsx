@@ -1,12 +1,12 @@
 import { useState } from 'react'
-import Layout from './pages/Layout/Layout'
+import NavBar from './components/NavBar/NavBar'
 
 function App() {
 
   return (
-   <div>
-    <Layout/>
-   </div>
+    <div className='min-h-screen bg-black overflow-hidden'>
+      <NavBar />
+    </div>
   )
 }
 

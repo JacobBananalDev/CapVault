@@ -3,6 +3,4 @@ export const CapVaultNavItems = [
     {content: 'Caps'},
     {content: 'By Size'},
     {content: 'By League'},
-    {content: 'Apparel'},
-    {content: 'Accessories'},
 ];
